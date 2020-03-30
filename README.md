@@ -2,6 +2,6 @@ The UKCA chemistry climate model uses lower-boundary conditions for its treatmen
 
 The script can be run on mybinder.org freely.  Each stage (cell) of the calculation (notebook) is execute by pressing Shift-Enter to evaluate it.  These cells are evaluated sequentially, with the state of variables persisting until updated.
 
-Click on the MyBinder link below to start an interactive enviroment to evaluate the notebook.  Then click on the notebook when the Jupyter notebook viewer is launched by Binder.  [This (https://www.youtube.com/watch?v=lzf5DU-sJig)] video (at 1.25x speed, ideally) gives a good intro on running a notebook on mybinder.org
+Click on the MyBinder link below to start an interactive enviroment to evaluate the notebook.  Then click on the notebook when the Jupyter notebook viewer is launched by Binder.  [This](https://www.youtube.com/watch?v=lzf5DU-sJig) video (at 1.25x speed, ideally) gives a good intro on running a notebook on mybinder.org
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paultgriffiths/H2_economy_box_model_scenarios/master)
